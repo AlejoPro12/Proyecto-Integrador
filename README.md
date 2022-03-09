@@ -1,2 +1,3 @@
 # Proyecto-Integrador
-Proyecto Integrador TODO LIST
+Proyecto Integrador TODO LIST <br>
+Equipo 8
